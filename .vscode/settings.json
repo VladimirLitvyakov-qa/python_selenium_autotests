@@ -1,0 +1,10 @@
+{
+    "python.testing.pytestArgs": [
+        "tests",
+        "--alluredir=my_allure_results"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "files.encoding": "utf8",
+    "files.autoGuessEncoding": false
+}
